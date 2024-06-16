@@ -1,22 +1,22 @@
 body{
-  background-color: #ff6666;
-  background: linear-gradient(80deg, #ffffff, #ff6666);
+  background-color: #ff3d3d;
+  background: linear-gradient(90deg, #75ffa3, #ff3d3d);
 }
-
 .morango{
-  padding: 3em 0;
-  width: 940px;
-  margin: 0 auto;
-  background: linear-gradient(90deg, #ffffff, #ff6666);
+  background: linear-gradient(90deg, #75ffa3, #ff3d3d);
 }
 
 .morango-conteudo{
   width: 940px;
   margin: 15px auto;
- 
-}
 
+}
 .morango p{
   margin: 0 0 2em;
   text-align: center;
+}
+
+.morango-conteudo2{
+  width: 940;
+  margin: 10px auto;
 }
