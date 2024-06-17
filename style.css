@@ -1,16 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
 body{
   background-color: #ff3d3d;
   background: linear-gradient(90deg, #75ffa3, #ff3d3d);
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+MORANGOS{
+  display: block;
+  margin: 0 auto;
+}
+
 .morango{
   background: linear-gradient(90deg, #75ffa3, #ff3d3d);
 }
 
-.morango-conteudo{
-  width: 940px;
-  margin: 15px auto;
-
-}
 .morango p{
   margin: 0 0 2em;
   text-align: center;
