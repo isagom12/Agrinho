@@ -5,22 +5,29 @@ body {
 }
 
 body{
-  background-color: #ff3d3d;
-  background: linear-gradient(90deg, #75ffa3, #ff3d3d);
+  background-color: #ff3333;
+  background: linear-gradient(90deg, #33ff77, #ff3333);
 }
 
-img {
-  display: block;
-  margin: 0 auto;
+header{
+   background: linear-gradient(90deg, #33ff77, #ff3333);
+  padding: 20px 0;
 }
 
-MORANGOS{
-  display: block;
-  margin: 0 auto;
+.morango img {
+ width: 500;
+  height: 300px;
+  border: 5px solid #000000;
+}
+
+.MORANGOS img {
+ width: 500px;
+ height: 300px;
+ border: 5px solid #000000;
 }
 
 .morango{
-  background: linear-gradient(90deg, #75ffa3, #ff3d3d);
+  background: linear-gradient(90deg, #33ff77, #ff3333);
 }
 
 .morango p{
